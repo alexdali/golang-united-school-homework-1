@@ -1,4 +1,4 @@
-module solution
+module github.com/alexdali/golang-united-school-homework-1/tree/lecture-00
 
 go 1.17
 
